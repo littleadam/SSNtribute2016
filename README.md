@@ -5,4 +5,5 @@ the project gives info on venue, date, time, schedule to simplify the attendance
 
 The app was well perceived by the alumni community
 
-project status: completed
+project status: completed and delivered 
+Pricing: Free
